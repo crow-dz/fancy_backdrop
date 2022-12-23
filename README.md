@@ -37,7 +37,7 @@ FancyBackdrop(
 ```
 # Next Goals
  
- -[ ] Adding new loading animations
+ [x] Adding new loading animations
 
 
 ___
